@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-31T05:53:21.419Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="-arsNuNtLbryXZuX0xyF" version="13.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-31T06:10:17.327Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="Z87u73RPecTcyaJWgFWR" version="13.6.5" type="github">
   <diagram id="uqa303zsqqpz839zzcMI" name="Page-1">
     <mxGraphModel dx="1483" dy="2798" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -101,46 +101,46 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mLJ8gpfskgdKYP6NNtSj-75" value="git&amp;nbsp; init" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;opacity=60;" vertex="1" parent="1">
-          <mxGeometry x="120" y="-1020" width="120" height="20" as="geometry" />
+          <mxGeometry x="90" y="-530" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="mLJ8gpfskgdKYP6NNtSj-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=25;" edge="1" parent="1" source="mLJ8gpfskgdKYP6NNtSj-76" target="mLJ8gpfskgdKYP6NNtSj-77">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mLJ8gpfskgdKYP6NNtSj-76" value="git add $FILE_NAME" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;opacity=60;" vertex="1" parent="1">
-          <mxGeometry x="650" y="-1020" width="280" height="20" as="geometry" />
+          <mxGeometry x="620" y="-530" width="280" height="20" as="geometry" />
         </mxCell>
         <mxCell id="mLJ8gpfskgdKYP6NNtSj-77" value="git commit -m &#39;demo&#39;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;opacity=60;" vertex="1" parent="1">
-          <mxGeometry x="1090" y="-1020" width="260" height="20" as="geometry" />
+          <mxGeometry x="1060" y="-530" width="260" height="20" as="geometry" />
         </mxCell>
         <mxCell id="mLJ8gpfskgdKYP6NNtSj-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=25;" edge="1" parent="1" source="mLJ8gpfskgdKYP6NNtSj-78" target="mLJ8gpfskgdKYP6NNtSj-79">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mLJ8gpfskgdKYP6NNtSj-78" value="git secret&amp;nbsp; init" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;opacity=60;" vertex="1" parent="1">
-          <mxGeometry x="120" y="-930" width="170" height="20" as="geometry" />
+          <mxGeometry x="90" y="-440" width="170" height="20" as="geometry" />
         </mxCell>
         <mxCell id="mLJ8gpfskgdKYP6NNtSj-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=25;" edge="1" parent="1" source="mLJ8gpfskgdKYP6NNtSj-79" target="mLJ8gpfskgdKYP6NNtSj-80">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mLJ8gpfskgdKYP6NNtSj-79" value="git secret&amp;nbsp; tell $USER" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;opacity=60;" vertex="1" parent="1">
-          <mxGeometry x="350" y="-930" width="260" height="20" as="geometry" />
+          <mxGeometry x="320" y="-440" width="260" height="20" as="geometry" />
         </mxCell>
         <mxCell id="mLJ8gpfskgdKYP6NNtSj-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=25;" edge="1" parent="1" source="mLJ8gpfskgdKYP6NNtSj-80" target="mLJ8gpfskgdKYP6NNtSj-81">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mLJ8gpfskgdKYP6NNtSj-80" value="git secret add $FILE_NAME" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;opacity=60;" vertex="1" parent="1">
-          <mxGeometry x="680" y="-930" width="320" height="20" as="geometry" />
+          <mxGeometry x="650" y="-440" width="320" height="20" as="geometry" />
         </mxCell>
         <mxCell id="mLJ8gpfskgdKYP6NNtSj-81" value="git secret hide" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;opacity=60;" vertex="1" parent="1">
-          <mxGeometry x="1090" y="-930" width="260" height="20" as="geometry" />
+          <mxGeometry x="1060" y="-440" width="260" height="20" as="geometry" />
         </mxCell>
         <mxCell id="mLJ8gpfskgdKYP6NNtSj-82" value="" style="endArrow=none;html=1;fontSize=25;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="120" y="-960" as="sourcePoint" />
-            <mxPoint x="1400" y="-960" as="targetPoint" />
+            <mxPoint x="90" y="-470" as="sourcePoint" />
+            <mxPoint x="1370" y="-470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mLJ8gpfskgdKYP6NNtSj-83" value="git push" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;opacity=60;" vertex="1" parent="1">
-          <mxGeometry x="1420" y="-970" width="260" height="20" as="geometry" />
+          <mxGeometry x="1390" y="-480" width="260" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
